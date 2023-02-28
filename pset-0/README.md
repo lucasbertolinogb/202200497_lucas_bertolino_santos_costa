@@ -18,7 +18,7 @@ para o scratch e se diverta ou faça o que quizer com meu jogo.
 
 Os comandos desse jogo são as setas (obs: vai ter que quebrar os dedos de tanto apertar) do teclado.
 
->Dieitos do projeto:
+>Direitos do projeto:
 
 Se precisar usar, use e não se esqueca de me prestar os devidos direitos de uso ,caso venha a usar como um projeto e/ou trabalho, 
 e brinque com os códigos do jeito que você quiser.
