@@ -5,6 +5,8 @@ Neste projeto foi proposto a criação de um trablho no scratch , um site onde e
 criação de jogos e tem como intuito abrir a mente na criação de jogos em geral.
 Nela foi feito um trabalho ,pelo menos nos códigos, 100% de minha autoria (tirando uns sprites e sons que eu mesmo fiz) do jogo chamado ``dino´s ball`` 
 um jogo onde você , é claro, um dinossauro que tem o propósito de bricar com sua bola laranja e desviar de todos os objetos que não seja a sua querida bola laranja.
+Em pset-0-notas.pdf está minha pontuação do CS50x, e como você já deve ter visto, não usei o blocks ... motivos ? não li a partes de obrigatoriedade e não sabia como 
+usar... (obs: depois de pesquisar descobri como usar esse blocks)
 
 >Como usar o meu scratch/trabalho:
 
