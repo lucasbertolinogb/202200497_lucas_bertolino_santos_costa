@@ -17,3 +17,6 @@ funcionado.
 
 ``Credit``: quem teve a ideia de fazer esse código não quer que seus alunos tenham uma vida social ... cara o tanto que tive que pesquisar para resolver cada coisa não
 foi brincadeira foi o maior frankstain da minha vida , no final deu tudo certo .
+
+Obs: se quiser usar os códigos pode usar ... pensei melhor sobre o scratch e sei que não consigo saber quem vai usar os códigos então deste pset-1 em diante esta 
+liberado para usar não como cola 100% (sua esperteza não vai me enganar volte a codar) e de resto pode usar.
