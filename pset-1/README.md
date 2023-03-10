@@ -5,7 +5,10 @@ esta beleza aumentou BASTANTE o nível de dificuldade (para quém começou a pro
 nem vou comentar pelo esforço herculeano de vocês ... mas a recompensa vale a pena ? sim , pois você se tornará um melhor programador e ... pelo nível de dificuldade 
 vou ter que fazer um cronograma de deveres mais estudos ...
 
->Códigos :
+
+>Códigos : 
+
+OBS gerais: tudo esta em c com a biblioteca cs50 dentro dos códigos.
  
 ``Hello word`` : 100% os códigos ,mas não li os restante da folha (do dever pset-1) para descobrir os comandos style e check que mostram onde você errou , e para não fazer
 os mesmos erros do que eu, use fervorosamente estes comandos .
