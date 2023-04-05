@@ -166,7 +166,7 @@ void add_pairs(void)
 
 }
 
-
+//faz o que o pset-3 chama de força da vitória sobre o perdedor 
 int compara(const void *ordem1, const void *ordem2)
 {
     pair v = *((pair *) ordem1);
@@ -181,17 +181,21 @@ int compara(const void *ordem1, const void *ordem2)
 void sort_pairs(void)
 {
     // TODO
+    //função que ordena de forma decrescente 
     qsort(pairs, pair_count, sizeof(pair), compara);
 
 }
 
 bool tem_ciclo_sim(int index, bool visto[])
 {
+    //parte para caso ele já tenha sido checado ele sai da função
     if (visto[index])
     {
         return true;
+        
     }
     visto[index] = true;
+    //Aqui começa a checagem dos ciclos
     for (int i = 0; i < candidate_count; i++)
     {
         if (locked[index][i] && tem_ciclo_sim(i, visto))
@@ -203,52 +207,66 @@ bool tem_ciclo_sim(int index, bool visto[])
     return false;
 }
 
+//usando a função tem_ciclo_sim nesta função
 bool tem_ciclo(int pri_index)
 {
     bool visto[candidate_count];
+    //vai deixar todas as funções ´´zeradas`` para entrar em tem_ciclo_sim
     for (int i = 0 ; i < candidate_count; i++)
     {
         visto[i] = false;
     }
+    //vai retornar se tiver um ciclo ou não 
     return tem_ciclo_sim(pri_index, visto);
 }
 
 // Lock pairs into the candidate graph in order, without creating cycles
+//Essa daqui vai travar os caminhos do ciclo feito em tem_ciclo
+//Obs: tem erro nessa função de não setar a preferência no 1º voto
+//ou seja, não checa todos as preferências
 void lock_pairs(void)
 {
     // TODO
     for (int i = 0 ; i < pair_count; i++)
     {
         locked[pairs[i].winner][pairs[i].loser] = true;
+        //caso tenha preferência de i para j vai retornar true e fechando um ciclo
         if (tem_ciclo(i))
         {
+            //essa parte pode tirar esse fechamento do ciclo 
             locked[pairs[i].winner][pairs[i].loser] = false;
         }
     }
 
 }
 
+//Verifica se tem um ciclo entre os candidatos 
 bool tem_rec(int index)
 {
     for (int i = 0 ; i < candidate_count; i++)
     {
+        //caso ele tenha um ciclo retorna false
         if (locked[i][index])
         {
             return false;
         }
     }
+    //se não tiver ele retorna true
     return true;
 }
 
+//pegador de candidato vencedor imediato no 1º turno (PCVI1)
 int pega_rec()
 {
     for (int i = 0 ; i < candidate_count; i++)
     {
+        //caso ele vença no nº turno ele retorna como 1 e passa como ganhador
         if (tem_rec(i))
         {
             return i;
         }
     }
+    //caso não passe ele fica de fora
     return -1;
 }
 // Print the winner of the election
@@ -256,6 +274,7 @@ void print_winner(void)
 {
     // TODO
     int index = pega_rec();
+    //agora os resultados da eleição 
     if (index != -1)
     {
         printf("%s\n", candidates[index]);
