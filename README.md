@@ -1,7 +1,7 @@
 # 202200497_lucas_bertolino_santos_costa
 Repositória para os psets do CS50x 
 
-Regras deste repositório:
+``Regras deste repositório:``
 
 1º não leve minhas piadas para o pessoal é so eu mesmo tendo dando uma de esquizofrênico na escrita ...
 
