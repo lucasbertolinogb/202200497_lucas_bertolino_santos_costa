@@ -116,6 +116,8 @@ bool vote(int rank, string name, int ranks[])
 }
 
 // Update preferences given one voter's ranks
+//Obs: tem erro nessa função de não setar a preferência no 1º voto
+//ou seja, não checa todos as preferências
 void record_preferences(int ranks[])
 {
     // TODO
@@ -222,8 +224,7 @@ bool tem_ciclo(int pri_index)
 
 // Lock pairs into the candidate graph in order, without creating cycles
 //Essa daqui vai travar os caminhos do ciclo feito em tem_ciclo
-//Obs: tem erro nessa função de não setar a preferência no 1º voto
-//ou seja, não checa todos as preferências
+//Obs:Ela não trava todos os não ciclos 
 void lock_pairs(void)
 {
     // TODO
