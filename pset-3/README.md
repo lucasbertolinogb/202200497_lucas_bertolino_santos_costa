@@ -9,3 +9,4 @@ Olá sou eu seu fiel escritor noturno (52) Lucas Bertolino (bastolino) e neste p
 ``Tideman``: agora esse pset-3... como se o que eu pensava ser fácil não pudesse piorar ... tinha que ser pset... não deu outra acabei errando os códigos e não peguei 100% , pois não importa como eu mudava ou pedia para o chatgpt me explicar , simplesmente não conseguia resolver os códigos .
 
 Obs: Caso queira pegar os códigos já (deixa o like e se increva) vai dando uma lida no código , pois ele tem alguns erros que eu mesmo indiquei em obs ... e finalizando esta minha escrita a todos os coladores se for fazer cola que não seja iqual a pepsi e coca-cola e por hoje é só nos vemos daqui a 2 semanas.
+Obs.finais: Não fiz o exercício prático ... motivo ? deixa de ser preguiçoso e leia o que eu fiz encima e não embaixo primeiramente (falou o maior estudioso 100% eficiente).
