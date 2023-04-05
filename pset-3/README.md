@@ -1,1 +1,11 @@
-teste
+Olá sou eu seu fiel escritor noturno (52) Lucas Bertolino (bastolino) e neste pset-3 eu serei seu guia. Primeiramente boa noite, boa tarde e bom dia a todos os leitores futuros (inclusive eu mesmo, pois eu sei que no futuro vou passar para dar uma lida), agora vamos ao que interressa ... Lucas , seu doidão da noite e dopado de hormônios , o que você achou deste pset-3 ...então nos primeiros momentos estava deboa passando nas funções e tals ... até que cheguei nos ultimos três funções e travei ... não travei por pensamento de solução ... simplesmente não saia nada de útil para resolve-lo ... é claro tentei passar para o chatgpt corrigir e passar ideias sem passar ´´cola`` ... mas tive que me desdobrar nesses códigos e simplesmente quanto mais eu mudava mais errado ficava ... ou seja , se for usar o código de uma lida nas minhas anotações que eu deixei nos códigos pois não resolvi alguns erros... agora voltando ao besterol ... como foi essa semana ... então com o passar do tempo estou melhorando meu cronograma ... e na próxima semana tem prova ... ;-;... agora eu realmente não vou poder sair (como seu eu não ficasse 24hrs em casa) ...sinceramnete não teve nada de interresante para escrever aqui ... mas eu pretendo pegar um estágio após (ou durante as provas) ... provavelmente vou voltar iqual uma múmia , mas esta escolha vai me trazer uma maior independência ... além de é claro dar mais outro passo na vida adulta plena.
+
+>Códigos:
+
+``Sort``: foi bem rápido fazer ele (e eu pensando que teria que fazer um código de ordenação logo no lab-3) , pois eu só tinha que identificar os parâmetros de bubble , merge e selection e fazer uma comparação até bater com minhas ideias .
+
+``Plurality``: esse foi ,digamos, fácil com os conhecimentos que eu obtive nesse tempo do certificado ... passei suave se comparado aos outro exercícios 
+
+``Tideman``: agora esse pset-3... como se o que eu pensava ser fácil não pudesse piorar ... tinha que ser pset... não deu outra acabei errando os códigos e não peguei 100% , pois não importa como eu mudava ou pedia para o chatgpt me explicar , simplesmente não conseguia resolver os códigos .
+
+Obs: Caso queira pegar os códigos já (deixa o like e se increva) vai dando uma lida no código , pois ele tem alguns erros que eu mesmo indiquei em obs ... e finalizando esta minha escrita a todos os coladores se for fazer cola que não seja iqual a pepsi e coca-cola e por hoje é só nos vemos daqui a 2 semanas.
