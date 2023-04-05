@@ -1,0 +1,35 @@
+sort1 uses: BUBBLE SORT
+
+How do you know?: Porcausa de sua checagem dos maiores para direita e outra checagem para esquerda de menores , ou seja ,
+ele tem uma checagem que faz ela ordernar do maior para o menor , portanto em casos onde temos números randomicos
+a bubble se sairá pior e em fazer o número já ordenas ela sairá melhor
+Usando random50000.txt teremos um resultado diferente entre sort1 e sort3:
+sort1=8,409s <---
+sort2=0.761s
+sort3=3,917s <---
+E em sorted50000.txt veremos um resultado deste tipo:
+sort1=2,893s <---
+sort2=0,861s
+sort3=3,690s <---
+Portanto, podemos levar esse resultado como sort1 sendo a bubble
+
+sort2 uses: MERGE SORT
+
+How do you know?: ele vai se mover da esquerda para direita sem precisar checar todos iqual a selection,
+fazendo por partes e depois arrumando elas todas juntas,e fazendo testes em todos os tipos ela sempre será
+a mais rápida (levando os teste passados como argumentos nessa resposta).
+Usando reversed10000.txt vemos que ela é mais rápida (pelo meu computador).
+sort1=0,298s
+sort2=0,062s  <---
+sort3=0,181s
+Como a merge ela é mais rápida das três ,podemos levar a sort2 como sendo a merge.
+
+sort3 uses: SELECTION SORT
+
+How do you know?: ele tem a função de sempre checar cada uma variável sempre que encontra a menor ela ordena
+para cada uma até encontrar o menor valor disponível , seguindo estes raciocínio teremos ela sendo mais rápido
+que a bubble em partes onde a ordenação segue do menor para o maior.
+Como em reversed50000.txt .
+sort3=4,276s  <---
+sort1=6,813s
+E levando em consideração minhas resposta anteriores (deste execício), a sort3 só pode ser selection.
