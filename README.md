@@ -17,4 +17,6 @@ Repositória para os psets do CS50x
 
 -lembrar de guardar os códigos... eu tenho certeza que os códigos anteriores servem para te dar uma ajuda a mais nos próximos
 
--caso venha a optar por fazer o certificado ... meus pesâmes e de todou a falta de sono como garantia que você irá trilhar o caminho da calvice precoce
+-existem dois certificados o pago e o gratuito ... o meu no caso é gratuito e não muda em nada ... ah não ser que algumas empresa ache que pagar por isso vale mais a pena ...de resto não muda em nada 
+
+-caso venha a optar por fazer o certificado ... meus pesâmes e de te dou a falta de sono como garantia que você irá trilhar o caminho da calvice precoce
