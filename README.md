@@ -17,4 +17,4 @@ Repositória para os psets do CS50x
 
 -lembrar de guardar os códigos... eu tenho certeza que os códigos anteriores servem para te dar uma ajuda a mais nos próximos
 
-
+-caso venha a optar por fazer o certificado ... meus pesâmes e de todou a falta de sono como garantia 
